@@ -1,0 +1,42 @@
+ body{
+    background-image: url(./images/weatheranimation.gif);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-attachment: fixed; 
+    height: 100%;
+    width: 100%;
+} 
+
+button{
+    border-radius: 20px;
+    color:green; 
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    background-color: skyblue;  
+    margin-top: 10%;
+    margin-left: 10%; 
+    height: 50px; 
+    min-width: 200px; 
+    max-width: 500px;
+    
+} 
+
+button:hover{
+    background-color: green; 
+    color: skyblue;
+} 
+
+h1{
+    text-align: center;
+    font-weight: 800; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: aliceblue;
+} 
+
+p{
+    text-align: center; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(250, 10, 10, 0.795); 
+    font-weight: 600;
+} 
+
